@@ -1,6 +1,5 @@
 # ペンペンのスキー
 
-## YouTube
 [![ペンペンのスキー](http://img.youtube.com/vi/tqcyAXpqmOo/0.jpg)](https://www.youtube.com/watch?v=tqcyAXpqmOo)
 
 ## SIDELOAD
